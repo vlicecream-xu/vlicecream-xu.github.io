@@ -3,7 +3,8 @@
         <title>Categories - Catégorie - Ame</title>
         <link>https://example.com/fr/categories/</link>
         <description>Categories - Catégorie - Ame</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://example.com/fr/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><managingEditor>vlicecream520@gmail.com (Ame)</managingEditor>
+            <webMaster>vlicecream520@gmail.com (Ame)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://example.com/fr/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Documentation</title>
     <link>https://example.com/fr/categories/documentation/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
