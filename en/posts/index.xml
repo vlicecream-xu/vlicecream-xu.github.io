@@ -1,49 +1,20 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Ame</title>
-        <link>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/posts/</link>
+        <link>https://example.com/en/posts/</link>
         <description>All Posts | Ame</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Theme Documentation - Basics</title>
-    <link>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-basics/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-basics/</guid>
-    <description><![CDATA[<p>Discover what the Hugo - <strong>LoveIt</strong> theme is all about and the core-concepts behind it.</p>]]></description>
-</item><item>
-    <title>Theme Documentation - Content</title>
-    <link>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-content/</link>
-    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-content/</guid>
-    <description><![CDATA[<p>Find out how to create and organize your content quickly and intuitively in <strong>LoveIt</strong> theme.</p>]]></description>
-</item><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</lastBuildDate><atom:link href="https://example.com/en/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Built-in Shortcodes</title>
-    <link>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-built-in-shortcodes/</link>
+    <link>https://example.com/en/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</link>
     <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-built-in-shortcodes/</guid>
-    <description><![CDATA[<p><strong>Hugo</strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.</p>]]></description>
-</item><item>
-    <title>Theme Documentation - Extended Shortcodes</title>
-    <link>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-extended-shortcodes/</link>
-    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-extended-shortcodes/</guid>
-    <description><![CDATA[<p><strong>LoveIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
-</item><item>
-    <title>Basic Markdown Syntax</title>
-    <link>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
-</item><item>
-    <title>Emoji Support</title>
-    <link>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/emoji-support/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
+    <guid>https://example.com/en/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</guid>
+    <description><![CDATA[二分查找的思想-减而治之 二分查找通过不断缩小区间的范围来查找目标元素，这种&quot;不断缩小区间&quot;就是减而治之的思想
+减而治之听起来高大上，其实就是排除法，我们每一次查找就排除掉一些元素，每一次重复此操作，自然就找到了我们的目标元素
+二分查找的应用范围 在有序数组中寻找一个目标值，有序和数组是重点
+在整数范围内寻找一个目标值，也就是不一定是有序数组，旋转数组和山脉数组都可以用到二分法
+二分查找的算法思路 在循环体中查找元素 简介
+此思路很简单，就是直接在数组中查找到目标元素 时间复杂度 O(log N)，这里的N是指数组的长度 空间复杂度：由于二分查找算法在执行的过程中只使用到常数个临时变量，因此空间复杂度是 O(1)。 代码模板
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 int search(vector&lt;int&gt;&amp; nums, int target) { int left = 0, right = nums.size()-1; while (left &lt;= right) { int mid = left + (right - left) / 2; if (nums[mid] == target) { return mid; } if (nums[mid] &lt; target) { left = mid + 1; } if (nums[mid] &gt; target) { right = mid - 1; } } } 在循环体中排除目标元素一定不存在的区间 简介]]></description>
 </item></channel>
 </rss>

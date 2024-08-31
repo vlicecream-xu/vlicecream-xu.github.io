@@ -2,263 +2,95 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-basics/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</loc><lastmod>2020-03-04T16:29:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/theme-documentation-basics/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/theme-documentation-basics/"
+                        href="https://example.com/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-basics/"
+                    href="https://example.com/en/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/"
                     /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-content/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/theme-documentation-content/"
+                        href="https://example.com/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/theme-documentation-content/"
+                        href="https://example.com/fr/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-content/"
+                    href="https://example.com/en/"
                     /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-built-in-shortcodes/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/categories/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/theme-documentation-built-in-shortcodes/"
+                        href="https://example.com/categories/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/theme-documentation-built-in-shortcodes/"
+                        href="https://example.com/fr/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-built-in-shortcodes/"
+                    href="https://example.com/en/categories/"
                     /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-extended-shortcodes/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/posts/</loc><lastmod>2020-03-04T16:29:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/theme-documentation-extended-shortcodes/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/theme-documentation-extended-shortcodes/"
+                        href="https://example.com/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/theme-documentation-extended-shortcodes/"
+                    href="https://example.com/en/posts/"
                     /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/basic-markdown-syntax/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/tags/shortcodes/</loc><lastmod>2020-03-04T16:29:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/basic-markdown-syntax/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/basic-markdown-syntax/"
+                        href="https://example.com/tags/shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/basic-markdown-syntax/"
+                    href="https://example.com/en/tags/shortcodes/"
                     /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/emoji-support/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/tags/</loc><lastmod>2020-03-04T16:29:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/emoji-support/"
+                        href="https://example.com/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/emoji-support/"
+                        href="https://example.com/fr/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/emoji-support/"
+                    href="https://example.com/en/tags/"
                     /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/about/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/"
+                        href="https://example.com/about/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/"
+                        href="https://example.com/fr/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/"
+                    href="https://example.com/en/about/"
                     /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/categories/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/en/categories/documentation/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/categories/"
+                        href="https://example.com/categories/documentation/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/categories/"
+                        href="https://example.com/fr/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/categories/"
-                    /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/configuration/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/tags/configuration/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/tags/configuration/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/configuration/"
-                    /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/installation/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/tags/installation/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/tags/installation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/installation/"
-                    /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/posts/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/posts/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/posts/"
-                    /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/"
-                    /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/content/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/tags/content/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/tags/content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/content/"
-                    /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/markdown/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/tags/markdown/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/tags/markdown/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/markdown/"
-                    /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/shortcodes/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/tags/shortcodes/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/tags/shortcodes/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/shortcodes/"
-                    /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/html/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/tags/html/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/tags/html/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/html/"
-                    /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/categories/markdown/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/categories/markdown/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/categories/markdown/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/categories/markdown/"
-                    /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/emoji/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/tags/emoji/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/tags/emoji/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/tags/emoji/"
-                    /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/about/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/about/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/about/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/about/"
-                    /></url><url>
-            <loc>https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/categories/documentation/</loc><lastmod>2024-08-31T16:02:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/categories/documentation/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/fr/categories/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://github.com/vlicecream-xu/vlicecream-xu.github.io/en/categories/documentation/"
+                    href="https://example.com/en/categories/documentation/"
                     /></url></urlset>
