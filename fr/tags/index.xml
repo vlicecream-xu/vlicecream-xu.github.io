@@ -1,56 +1,56 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Balise - LoveIt</title>
-        <link>https://example.com/fr/tags/</link>
-        <description>Tags - Balise - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="https://example.com/fr/tags/" rel="self" type="application/rss+xml" /><item>
+        <title>Tags - Balise - Ame</title>
+        <link>https://vlicecream-xu.github.io/fr/tags/</link>
+        <description>Tags - Balise - Ame</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="https://vlicecream-xu.github.io/fr/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Configuration</title>
-    <link>https://example.com/fr/tags/configuration/</link>
+    <link>https://vlicecream-xu.github.io/fr/tags/configuration/</link>
     <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
     <author>Auteur</author>
-    <guid>https://example.com/fr/tags/configuration/</guid>
+    <guid>https://vlicecream-xu.github.io/fr/tags/configuration/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Installation</title>
-    <link>https://example.com/fr/tags/installation/</link>
+    <link>https://vlicecream-xu.github.io/fr/tags/installation/</link>
     <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
     <author>Auteur</author>
-    <guid>https://example.com/fr/tags/installation/</guid>
+    <guid>https://vlicecream-xu.github.io/fr/tags/installation/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Markdown</title>
-    <link>https://example.com/fr/tags/markdown/</link>
+    <link>https://vlicecream-xu.github.io/fr/tags/markdown/</link>
     <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
     <author>Auteur</author>
-    <guid>https://example.com/fr/tags/markdown/</guid>
+    <guid>https://vlicecream-xu.github.io/fr/tags/markdown/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Shortcodes</title>
-    <link>https://example.com/fr/tags/shortcodes/</link>
+    <link>https://vlicecream-xu.github.io/fr/tags/shortcodes/</link>
     <pubDate>Wed, 04 Mar 2020 16:29:59 &#43;0800</pubDate>
     <author>Auteur</author>
-    <guid>https://example.com/fr/tags/shortcodes/</guid>
+    <guid>https://vlicecream-xu.github.io/fr/tags/shortcodes/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>HTML</title>
-    <link>https://example.com/fr/tags/html/</link>
+    <link>https://vlicecream-xu.github.io/fr/tags/html/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Auteur</author>
-    <guid>https://example.com/fr/tags/html/</guid>
+    <guid>https://vlicecream-xu.github.io/fr/tags/html/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Emoji</title>
-    <link>https://example.com/fr/tags/emoji/</link>
+    <link>https://vlicecream-xu.github.io/fr/tags/emoji/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
     <author>Auteur</author>
-    <guid>https://example.com/fr/tags/emoji/</guid>
+    <guid>https://vlicecream-xu.github.io/fr/tags/emoji/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>contenu</title>
-    <link>https://example.com/fr/tags/content/</link>
+    <link>https://vlicecream-xu.github.io/fr/tags/content/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://example.com/fr/tags/content/</guid>
+    <guid>https://vlicecream-xu.github.io/fr/tags/content/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
